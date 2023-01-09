@@ -1,0 +1,28 @@
+html{
+font-family: sans-serif; 
+}
+p{
+text-align: center;
+font-size: x-large;
+color:white;
+}
+h1,h2{
+    text-align: center;
+    color:white;
+}
+a{
+    font-style:white;
+}
+body{
+    background:url(https://img.wallscloud.net/uploads/thumb/3051139214/minecraft-stone-brick-0LOL-1024x576-MM-80.webp) ;
+    background-repeat:repeat;
+    background-size:contain;
+    background-position: center center;
+    background-color: transparent;
+
+}
+img{
+    width: 50em;
+}
+
+
